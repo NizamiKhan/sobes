@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd25397-da9a-4096-aa10-f923464a3a71" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patterns/factory/factory.php" afterPath="$PROJECT_DIR$/patterns/factory/factory.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patterns/factory/page.php" afterPath="$PROJECT_DIR$/patterns/factory/page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patterns/factory/pagefactory.php" afterPath="$PROJECT_DIR$/patterns/factory/pagefactory.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patterns/factory/pdf.php" afterPath="$PROJECT_DIR$/patterns/factory/pdf.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patterns/factory/php.php" afterPath="$PROJECT_DIR$/patterns/factory/php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patterns/factory/txt.php" afterPath="$PROJECT_DIR$/patterns/factory/txt.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/patterns/factory/factory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/patterns/factory/page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/patterns/factory/pagefactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/patterns/factory/pdf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/patterns/factory/php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/patterns/factory/txt.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,7 +38,18 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="factory.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/patterns/fac/factory.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/patterns/factory" />
@@ -66,10 +77,10 @@
         <option value="$PROJECT_DIR$/patterns/factory/pdf.php" />
         <option value="$PROJECT_DIR$/patterns/factory/php.php" />
         <option value="$PROJECT_DIR$/patterns/factory/txt.php" />
-        <option value="$PROJECT_DIR$/patterns/factory/factory.php" />
         <option value="$PROJECT_DIR$/patterns/DI.php" />
         <option value="$PROJECT_DIR$/patterns/DI2.php" />
         <option value="$PROJECT_DIR$/patterns/DependencyInjection/index.php" />
+        <option value="$PROJECT_DIR$/patterns/factory/factory.php" />
       </list>
     </option>
   </component>
@@ -117,7 +128,7 @@
               <item name="sobes" type="b2602c69:ProjectViewProjectNode" />
               <item name="sobes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="patterns" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="factory" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fac" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -135,6 +146,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\sobes\patterns\fac" />
       <recent name="C:\OSPanel\domains\sobes\patterns\DependencyInjection\src" />
       <recent name="C:\OSPanel\domains\sobes\patterns\DI" />
       <recent name="C:\OSPanel\domains\sobes\patterns" />
@@ -156,7 +168,7 @@
   <component name="RunManager" selected="JavaScript Debug.DI.php">
     <configuration name="DI.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sobes/patterns/DI/DI.php" />
     <configuration name="Singleton.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sobes/patterns/Singleton.php" />
-    <configuration name="factory.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sobes/patterns/factory/factory.php" />
+    <configuration name="factory.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sobes/patterns/fac/factory.php" />
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Singleton.php" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.factory.php" />
@@ -184,12 +196,12 @@
       <workItem from="1507456949750" duration="21448000" />
       <workItem from="1507537986257" duration="14110000" />
       <workItem from="1507568443371" duration="611000" />
-      <workItem from="1507618575906" duration="524000" />
+      <workItem from="1507618575906" duration="654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42235000" />
+    <option name="totallyTimeSpent" value="42365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="865" y="0" width="742" height="867" extended-state="0" />
@@ -464,7 +476,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/patterns/factory.php" />
-    <entry file="file://$PROJECT_DIR$/patterns/factory/txt.php">
+    <entry file="file://$PROJECT_DIR$/patterns/fac/txt.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
@@ -520,15 +532,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/patterns/factory/factory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/patterns/factory/page.php">
+    <entry file="file://$PROJECT_DIR$/patterns/fac/page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
@@ -536,7 +540,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/patterns/factory/pagefactory.php">
+    <entry file="file://$PROJECT_DIR$/patterns/fac/pagefactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
@@ -544,7 +548,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/patterns/factory/pdf.php">
+    <entry file="file://$PROJECT_DIR$/patterns/fac/pdf.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
@@ -552,10 +556,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/patterns/factory/php.php">
+    <entry file="file://$PROJECT_DIR$/patterns/fac/php.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patterns/fac/factory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
